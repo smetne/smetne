@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I'm Anna!
+___
 
-<!--
-**smetne/smetne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a junior Data Analyst
+and [here](https://github.com/smetne/ya_praktikum) in my profile you can check out my study projects
 
-Here are some ideas to get you started:
+Languages and Tools
+- Python
+- SQL
+- Tableau
+- Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=smetne)](https://github.com/smetne/github-readme)
+
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
