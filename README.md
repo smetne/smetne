@@ -6,7 +6,7 @@ and [here](https://github.com/smetne/ya_praktikum) you can check out my study pr
 
 Languages and Tools
 - Python
-- SQL
+- PostgreSQL
 - Tableau
 - Power BI
 
