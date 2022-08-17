@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Anna!
 ___
 
-## I'm a junior Data Analyst
+## I'm an intern Data Analyst
 and [here](https://github.com/smetne/ya_praktikum) you can check out my study projects
 
 Languages and Tools
