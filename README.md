@@ -2,7 +2,9 @@
 ___
 
 ## I'm an intern Data Analyst
-and [here](https://github.com/smetne/ya_praktikum) you can check out my study projects
+[study projects](https://github.com/smetne/ya_praktikum)
+
+[dashboards](https://github.com/smetne/dashboards)
 
 Languages and Tools
 - Python
