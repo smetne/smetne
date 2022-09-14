@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Anna!
 ___
 
-## I'm an intern Data Analyst
+## I'm a trainee Data Analyst
 [study projects](https://github.com/smetne/ya_praktikum)
 
 [dashboards](https://github.com/smetne/dashboards)
