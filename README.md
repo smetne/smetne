@@ -6,6 +6,8 @@ ___
 
 [dashboards](https://github.com/smetne/dashboards)
 
+[pet projects](https://github.com/smetne/pet_projects)
+
 Languages and Tools
 - Python
 - PostgreSQL
