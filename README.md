@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Anna!
 ___
 
-## I'm a trainee Data Analyst
+## I'm a Data Analyst
 [study projects](https://github.com/smetne/ya_praktikum)
 
 [dashboards](https://github.com/smetne/dashboards)
@@ -13,6 +13,8 @@ Languages and Tools
 - PostgreSQL
 - Tableau
 - Power BI
+- Data Looker Studio
+- Google BigQuery
 
 [![codewars](https://www.codewars.com/users/smetne/badges/small)](https://www.codewars.com/users/smetne) 
 
