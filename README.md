@@ -10,11 +10,12 @@ ___
 
 Languages and Tools
 - Python
-- PostgreSQL
+- SQL
 - Tableau
 - Power BI
 - Data Looker Studio
 - Google BigQuery
+- Appsmith
 
 [![codewars](https://www.codewars.com/users/smetne/badges/small)](https://www.codewars.com/users/smetne) 
 
